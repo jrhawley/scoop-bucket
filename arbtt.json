@@ -1,0 +1,14 @@
+{
+	"version": "0.9.1",
+	"url": "https://www.joachim-breitner.de/archive/arbtt/arbtt-setup-0.9.1.exe",
+	"bin": [
+		"arbtt-capture.exe",
+		"arbtt-dump.exe",
+		"arbtt-recover.exe",
+		"arbtt-stats.exe"
+	],
+	"innosetup": true,
+	"homepage": "https://arbtt.nomeata.de/",
+	"license": "GPLv2",
+	"description": "The automatic, rule-based time tracker."
+}
