@@ -14,15 +14,9 @@
 		"keep": false
 	},
 	"uninstaller": {
-		"file": "$dir\\unins000.exe"
+		"file": "unins000.exe"
 	},
 	"bin": "windscribe.exe",
-	"shortcuts": [
-		[
-			"windscribe.exe",
-			"Windscribe"
-		]
-	],
 	"homepage": "https://windscribe.com",
 	"description": "Browse the web privately as it was meant to be.",
 	"license": {
