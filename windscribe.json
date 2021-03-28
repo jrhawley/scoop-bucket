@@ -14,9 +14,8 @@
 		"keep": false
 	},
 	"uninstaller": {
-		"file": "uninst.exe"
+		"file": "$dir\\unins000.exe"
 	},
-	"post_install": "Remove-Item $dir\\Windscribe-Installer.exe",
 	"bin": "windscribe.exe",
 	"shortcuts": [
 		[
