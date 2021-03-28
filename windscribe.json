@@ -1,6 +1,7 @@
 {
 	"version": "1.83",
 	"url": "https://assets.totallyacdn.com/desktop/win/Windscribe.exe",
+	"hash": "33b50ccd1c2596c592686da0b3dff0d8f00857f2643862a37c657ce40828f973",
 	"bin": [
 		"windscribe.exe"
 	],
