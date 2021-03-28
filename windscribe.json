@@ -4,6 +4,11 @@
 	"hash": "33b50ccd1c2596c592686da0b3dff0d8f00857f2643862a37c657ce40828f973",
 	"installer": {
 		"file": "Windscribe.exe",
+		"args": [
+			"/silent",
+			"/dir=$dir",
+			"/norestart"
+		],
 		"keep": false
 	},
 	"uninstaller": {
