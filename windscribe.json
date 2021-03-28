@@ -9,8 +9,18 @@
 	"uninstaller": {
 		"file": "uninst.exe"
 	},
+	"bin": "windscribe.exe",
+	"shortcuts": [
+		[
+			"windscribe.exe",
+			"Windscribe"
+		]
+	],
 	"homepage": "https://windscribe.com",
 	"description": "Browse the web privately as it was meant to be.",
-	"license": "Proprietary"
+	"license": {
+		"identifier": "Proprietary",
+		"url": "https://windscribe.com/terms"
+	}
 }
 
