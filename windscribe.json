@@ -2,10 +2,12 @@
 	"version": "1.83",
 	"url": "https://assets.totallyacdn.com/desktop/win/Windscribe.exe",
 	"hash": "33b50ccd1c2596c592686da0b3dff0d8f00857f2643862a37c657ce40828f973",
+	"pre_install": "Move-Item $dir\\$fname $dir\\Windscribe-Installer.exe",
 	"installer": {
-		"file": "Windscribe.exe",
+		"file": "Windscribe-Installer.exe",
 		"args": [
 			"/silent",
+			"/noicons",
 			"/dir=$dir",
 			"/norestart"
 		],
@@ -14,6 +16,7 @@
 	"uninstaller": {
 		"file": "uninst.exe"
 	},
+	"post_install": "Remove-Item $dir\\Windscribe-Installer.exe",
 	"bin": "windscribe.exe",
 	"shortcuts": [
 		[
