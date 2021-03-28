@@ -1,0 +1,11 @@
+{
+	"version": "1.83",
+	"url": "https://assets.totallyacdn.com/desktop/win/Windscribe.exe",
+	"bin": [
+		"windscribe.exe"
+	],
+	"innosetup": true,
+	"homepage": "https://windscribe.com",
+	"description": "Browse the web privately as it was meant to be."
+}
+
