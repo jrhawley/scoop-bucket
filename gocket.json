@@ -5,11 +5,25 @@
 			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86.zip"
 		},
 		"64bit": {
-			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86_64.zip"
+			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86_64.zip",
+			"hash": "b41884f22edaa67300b0830707ddb9230ceb5e958fda14213d7853d85a14c244"
 		}
 	},
 	"bin": "gocket.exe",
 	"homepage": "https://github.com/Phantas0s/gocket",
+	"checkver": {
+		"github": "https://github.com/Phantas0s/gocket"
+	},
+	"autoupdate": {
+		"architecture": {
+			"32bit": {
+				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86.zip"
+			},
+			"64bit": {
+				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86_64.zip"
+			}
+		}
+	},
 	"license": "Apache 2.0",
 	"description": "CLI/TUI for Pocket"
 }
