@@ -2,7 +2,8 @@
 	"version": "0.2.4",
 	"architecture": {
 		"32bit": {
-			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86.zip"
+			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86.zip",
+			"hash": "affcb28f03c7701099507caeb09a14ffcea749070fbea3a05639c05d0310dbd7"
 		},
 		"64bit": {
 			"url": "https://github.com/Phantas0s/gocket/releases/download/v0.2.4/gocket_0.2.4_Windows_x86_64.zip",
@@ -17,10 +18,18 @@
 	"autoupdate": {
 		"architecture": {
 			"32bit": {
-				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86.zip"
+				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86.zip",
+				"hash": {
+					"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/checksums.txt",
+					"regex": "^([a-fA-F0-9]+)  gocket_$version_Windows_x86.zip"
+				}
 			},
 			"64bit": {
-				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86_64.zip"
+				"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/gocket_$version_Windows_x86_64.zip",
+				"hash": {
+					"url": "https://github.com/Phantas0s/gocket/releases/download/v$version/checksums.txt",
+					"regex": "^([a-fA-F0-9]+)  gocket_$version_Windows_x86_64.zip"
+				}
 			}
 		}
 	},
