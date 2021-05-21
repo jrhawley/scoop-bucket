@@ -1,0 +1,18 @@
+{
+	"version": "1.9.1",
+	"url": "https://d1gl0nrskhax8d.cloudfront.net/windows/designer/$version/affinity-designer-$version.exe",
+	"installer": {
+		"file": "affinity-designer-$version.exe",
+		"keep": false
+	},
+	"bin": [
+		["Designer.exe", "Affinity Designer"]
+	],
+	"homepage": "https://affinity.serif.com/en-us/designer/",
+	"description": "Vector graphics editor developed by Serif for macOS, iOS, and Microsoft Windows.",
+	"license": {
+		"identifier": "Proprietary",
+		"url": "https://affinity.serif.com/en-us/terms/"
+	}
+}
+
