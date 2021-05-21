@@ -1,0 +1,29 @@
+{
+    "version": "0.8.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/sharkdp/pastel/releases/download/v0.8.0/pastel-v0.8.0-i686-pc-windows-msvc.zip",
+            "bin": "pastel.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/sharkdp/pastel/releases/download/v0.8.0/pastel-v0.8.0-x86_64-pc-windows-msvc.zip",
+            "bin": "pastel.exe"
+        }
+    },
+    "homepage": "https://pastel.io",
+    "checkver": {
+        "github": "https://github.com/sharkdp/pastel"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/sharkdp/pastel/releases/download/v$version/pastel-v$version-i686-pc-windows-msvc.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/sharkdp/pastel/releases/download/v$version/pastel-v$version-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    },
+    "license": "MIT",
+    "description": "A command-line tool to generate, analyze, convert and manipulate colors"
+}
