@@ -10,7 +10,6 @@
             "bin": "pastel.exe"
         }
     },
-    "homepage": "https://pastel.io",
     "checkver": {
         "github": "https://github.com/sharkdp/pastel"
     },
