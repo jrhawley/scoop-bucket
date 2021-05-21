@@ -7,7 +7,7 @@
         "github": "https://github.com/printfn/fend"
     },
     "autoupdate": {
-        "url": "https://github.com/printfn/fend/releases/download/v$version/fend-$version-windows-x64.zip",
+        "url": "https://github.com/printfn/fend/releases/download/v$version/fend-$version-windows-x64.zip"
     },
     "license": "MIT",
     "description": "Arbitrary-precision unit-aware calculator"
