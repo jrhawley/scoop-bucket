@@ -1,0 +1,14 @@
+{
+    "version": "0.1.16",
+    "url": "https://github.com/printfn/fend/releases/download/v0.1.16/fend-0.1.16-windows-x64.zip",
+    "bin": "fend.exe",
+    "homepage": "https://printfn.github.io/fend-website/",
+    "checkver": {
+        "github": "https://github.com/printfn/fend"
+    },
+    "autoupdate": {
+        "url": "https://github.com/printfn/fend/releases/download/v$version/fend-$version-windows-x64.zip",
+    },
+    "license": "MIT",
+    "description": "Arbitrary-precision unit-aware calculator"
+}
