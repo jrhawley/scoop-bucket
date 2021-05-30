@@ -1,7 +1,8 @@
 {
 	"version": "0.5.3",
 	"url": "https://github.com/PaddiM8/kalk/releases/download/v0.5.3/kalk-windows.msi",
-	"bin": "kalk.exe",
+	"hash": "59ab1ad1641c425d5868c732365007828aae42fc8b91ffe0326c4a717189854c",
+	"bin": "Kalk\\kalk.exe",
 	"homepage": "https://kalk.strct.net/",
 	"checkver": {
 		"github": "https://github.com/PaddiM8/kalk"
