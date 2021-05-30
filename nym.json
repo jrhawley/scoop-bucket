@@ -1,9 +1,7 @@
 {
 	"version": "0.1.0r1",
 	"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0r1/nym_v0.1.0r1_x86_64-pc-windows-gnu.zip",
-	"hash": {
-		"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0r1/nym_v0.1.0r1_x86_64-pc-windows-gnu.sha256sum"
-	},
+	"hash": "8fe650acc0531f604c960bd6e82ed30efb6a63eac5c6b1df99fc5a20dcdace7b",
 	"bin": "nym.exe",
 	"homepage": "https://olson-sean-k.github.io/nym-website/",
 	"checkver": {
