@@ -1,8 +1,8 @@
 {
-	"version": "0.1.0",
-	"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0/nym_0.1.0r1_x86_64-pc-windows-gnu.zip",
+	"version": "0.1.0r1",
+	"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0r1/nym_0.1.0r1_x86_64-pc-windows-gnu.zip",
 	"hash": {
-		"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0/nym_0.1.0r1_x86_64-pc-windows-gnu.sha256sum"
+		"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0r1/nym_0.1.0r1_x86_64-pc-windows-gnu.sha256sum"
 	},
 	"bin": "nym.exe",
 	"homepage": "https://olson-sean-k.github.io/nym-website/",
@@ -10,9 +10,9 @@
 		"github": "https://github.com/olson-sean-k/nym"
 	},
 	"autoupdate": {
-		"url": "https://github.com/olson-sean-k/nym/releases/download/v$version/nym-v$version-windows-x64.zip",
+		"url": "https://github.com/olson-sean-k/nym/releases/download/v$version/nym_v$version_x86_64-pc-windows-gnu.zip",
 		"hash": {
-			"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0/nym_v$version_x86_64-pc-windows-gnu.sha256sum"
+			"url": "https://github.com/olson-sean-k/nym/releases/download/v0.1.0r1/nym_v$version_x86_64-pc-windows-gnu.sha256sum"
 		}
 	},
 	"license": "MIT",
