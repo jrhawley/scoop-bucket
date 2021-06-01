@@ -1,0 +1,16 @@
+{
+    "version": "0.0.6",
+    "url": "https://github.com/helix-editor/helix/releases/download/v0.0.6/helix-v0.0.6-x86_64-windows.zip",
+    "hash": "1302429da051957128447172af16efd0a08e80a60ac1ffcd8f6ae4d49385be81",
+    "extract_dir": "helix-v0.0.6-x86_64-windows",
+    "bin": "hx.exe",
+    "homepage": "https://helix-editor.com",
+    "checkver": {
+        "github": "https://github.com/helix-editor/helix"
+    },
+    "autoupdate": {
+        "url": "https://github.com/helix-editor/helix/releases/download/v$version/helix-v$version-x86_64-windows.zip"
+    },
+    "license": "MPL 2.0",
+    "description": "A post-modern modal text editor"
+}
