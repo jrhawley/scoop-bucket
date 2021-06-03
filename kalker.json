@@ -1,0 +1,15 @@
+{
+	"version": "0.5.3",
+	"url": "https://github.com/PaddiM8/kalker/releases/download/v0.5.3/kalk-windows.msi",
+	"hash": "59ab1ad1641c425d5868c732365007828aae42fc8b91ffe0326c4a717189854c",
+	"bin": "Kalker\\kalker.exe",
+	"homepage": "https://kalker.strct.net/",
+	"checkver": {
+		"github": "https://github.com/PaddiM8/kalker"
+	},
+	"autoupdate": {
+		"url": "https://github.com/PaddiM8/kalker/releases/download/v$version/kalker-windows.msi"
+	},
+	"license": "MIT",
+	"description": "A calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
+}
