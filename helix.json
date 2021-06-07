@@ -1,7 +1,7 @@
 {
-    "version": "0.0.9",
-    "url": "https://github.com/helix-editor/helix/releases/download/v0.0.9/helix-v0.0.9-x86_64-windows.zip",
-    "hash": "aa6c4e645b3a605d7cddaa196191a066138b428baf128fd74879fa84871a7fe1",
+    "version": "0.0.10",
+    "url": "https://github.com/helix-editor/helix/releases/download/v0.0.10/helix-v0.0.10-x86_64-windows.zip",
+    "hash": "d32c2e9f3287f719d95af2103b30e7fa356d0c1832d23dad0da04ce104eaf9ef",
     "extract_dir": "helix-v0.0.6-x86_64-windows",
     "bin": "hx.exe",
     "homepage": "https://helix-editor.com",
