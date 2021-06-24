@@ -1,0 +1,28 @@
+{
+    "version": "5.1.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/gramps-project/gramps/releases/download/v5.1.3/GrampsAIO-5.1.3-2_win32.exe",
+            "bin": "gramps.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/gramps-project/gramps/releases/download/v5.1.3/GrampsAIO-5.1.3-2_win64.exe",
+            "bin": "gramps.exe"
+        }
+    },
+    "homepage": "https://gramps-project.org",
+    "checkver": {
+        "github": "https://github.com/gramps-project/gramps"
+    },
+    "autoupdate": {
+        "32bit": {
+            "url": "https://github.com/gramps-project/gramps/releases/download/v$version/GrampsAIO-$version-2_win32.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/gramps-project/gramps/releases/download/v$version/GrampsAIO-$version-2_win64.exe"
+        }
+    },
+    "innosetup": true,
+    "license": "GPLv2",
+    "description": "Research, organize, and share your family tree."
+}
