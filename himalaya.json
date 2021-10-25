@@ -1,0 +1,15 @@
+{
+    "version": "0.5.1",
+    "url": "https://github.com/soywod/himalaya/releases/download/v0.5.1/himalaya-windows.tar.gz",
+    "bin": "himalaya.exe",
+    "hash": "7741b344c6033aa446c346d3d18f16444d1d92c092a4f855473d1d490539123d",
+    "homepage": "https://github.com/soywood/himalaya",
+    "checkver": {
+        "github": "https://github.com/soywod/himalaya"
+    },
+    "autoupdate": {
+        "url": "https://github.com/soywod/himalaya/releases/download/v$version/himalaya-windows.tar.gz"
+    },
+    "license": "BSD-3",
+    "description": "CLI email client."
+}
