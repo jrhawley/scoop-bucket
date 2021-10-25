@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
-    "url": "https://github.com/PaddiM8/kalker/releases/download/v1.0.0/kalker-windows.msi",
-    "hash": "28677d41c7743dafa12234f4109be7c21fb4d7d108d558af54fed289e41b9b33",
+    "version": "1.0.1",
+    "url": "https://github.com/PaddiM8/kalker/releases/download/v1.0.1/kalker-windows.msi",
+    "hash": "ac3eb3dd504a9b34ab283809c94b2ed7103795da078af8ec8f5d80f44b8a4c1a",
     "bin": "Kalker\\kalker.exe",
     "homepage": "https://kalker.strct.net/",
     "checkver": {
