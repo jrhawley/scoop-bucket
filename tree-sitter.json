@@ -1,14 +1,15 @@
 {
-    "version": "0.20.3",
+    "version": "0.20.4",
     "architecture": {
         "32bit": {
             "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-windows-x86.gz",
-            "bin": "tree-sitter.exe"
+            "bin": "tree-sitter.exe",
+            "hash": "d5eaa6187f4ad88cbf0d4cd38d051dd0"
         },
         "64bit": {
             "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-windows-x64.gz",
             "bin": "tree-sitter.exe",
-            "hash": "31058f4f3964f109c9c8495dfa467511fcd25a797c552f02f517b3fb765516c5"
+            "hash": "75c189cc65ecfc20596d8779e98f40d9"
         }
     },
     "homepage": "https://tree-sitter.github.io/tree-sitter/",
