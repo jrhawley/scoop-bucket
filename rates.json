@@ -1,16 +1,16 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lunush/rates/releases/download/0.5.0/rates-0.5.0-i686-pc-windows-msvc.zip",
-            "hash": "476e538588853f11365d20a31cf944c1a8abf756859d5f67e931eb783725266f",
-            "extract_dir": "rates-0.5.0-i686-pc-windows-msvc",
+            "url": "https://github.com/lunush/rates/releases/download/0.6.0/rates-0.6.0-i686-pc-windows-msvc.zip",
+            "hash": "ff48da66ac9fecb8ade8742085f53973215d29759a72656ec5cecb39a55e781d",
+            "extract_dir": "rates-0.6.0-i686-pc-windows-msvc",
             "bin": "rates.exe"
         },
         "64bit": {
-            "url": "https://github.com/lunush/rates/releases/download/0.5.0/rates-0.5.0-x86_64-pc-windows-msvc.zip",
-            "hash": "8f294e840597c054e7c0c87a07e94b7f1d93cc2f7766cbad5e4e262db5564868",
-            "extract_dir": "rates-0.5.0-x86_64-pc-windows-msvc",
+            "url": "https://github.com/lunush/rates/releases/download/0.6.0/rates-0.6.0-x86_64-pc-windows-msvc.zip",
+            "hash": "d59fd0b0c5621860140c5bf2f60ef88d0631c9a89cf78ffa7633aac143eb2e8c",
+            "extract_dir": "rates-0.6.0-x86_64-pc-windows-msvc",
             "bin": "rates.exe"
         }
     },
