@@ -1,0 +1,13 @@
+{
+    "version": "0.8.0",
+    "url": "https://github.com/jrhawley/quill/releases/download/v0.8.0/quill_v0.8.0_x86_64-pc-windows-gnu.zip",
+    "bin": "quill.exe",
+    "homepage": "https://github.com/jrhawley/quill",
+    "checkver": {
+        "github": "https://github.com/jrhawley/quill"
+    },
+    "autoupdate": {
+        "url": "https://github.com/jrhawley/quill/releases/download/v$version/quill_v$version_x86_64-pc-windows-gnu.zip"
+    },
+    "description": "Query bills and accounts to check on your financial statements."
+}
