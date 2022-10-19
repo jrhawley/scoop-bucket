@@ -1,8 +1,8 @@
 {
-    "version": "0.8.0",
-    "url": "https://github.com/jrhawley/quill/releases/download/v0.8.0/quill_v0.8.0_x86_64-pc-windows-gnu.zip",
+    "version": "0.8.1",
+    "url": "https://github.com/jrhawley/quill/releases/download/v0.8.1/quill_v0.8.1_x86_64-pc-windows-gnu.zip",
     "bin": "quill.exe",
-    "hash": "1497b183ac47ed9474716787689a9eef2f165eb54c444e32a57c7127d3de11e1",
+    "hash": "47f58a50447d10930f6897fab44f08e9974beaa30eb0cacd7ceb66cd7dafc81d",
     "homepage": "https://github.com/jrhawley/quill",
     "checkver": {
         "github": "https://github.com/jrhawley/quill"
