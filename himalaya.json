@@ -1,15 +1,15 @@
 {
-	"version": "0.5.10",
-	"description": "Command-line interface for email management.",
-	"homepage": "https://github.com/soywood/himalaya",
-	"license": "BSD-3",
-	"url": "https://github.com/soywod/himalaya/releases/download/v0.5.10/himalaya-windows.tar.gz",
-	"hash": "8d36969ec30958225752e6d9a448e41b86a26287452150d7426df5f945fb0dde",
-	"bin": "himalaya.exe",
-	"checkver": {
-		"github": "https://github.com/soywod/himalaya"
-	},
-	"autoupdate": {
-		"url": "https://github.com/soywod/himalaya/releases/download/v$version/himalaya-windows.tar.gz"
-	}
+    "version": "0.6.1",
+    "description": "Command-line interface for email management.",
+    "homepage": "https://github.com/soywood/himalaya",
+    "license": "BSD-3",
+    "url": "https://github.com/soywod/himalaya/releases/download/v0.6.1/himalaya-windows.tar.gz",
+    "hash": "66719cd3d28a007cd3ac926447d2264f2675d1cc6b8e57e414a5e62cfcee4422",
+    "bin": "himalaya.exe",
+    "checkver": {
+        "github": "https://github.com/soywod/himalaya"
+    },
+    "autoupdate": {
+        "url": "https://github.com/soywod/himalaya/releases/download/v$version/himalaya-windows.tar.gz"
+    }
 }
