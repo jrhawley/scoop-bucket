@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "url": "https://github.com/printfn/fend/releases/download/v1.1.0/fend-1.1.0-windows-x64-exe.zip",
-    "hash": "71d7160c0911e5f8e0f758b9cbf88bbc690dd41362fe9f69f6f8ee0807358e76",
+    "version": "1.1.1",
+    "url": "https://github.com/printfn/fend/releases/download/v1.1.1/fend-1.1.1-windows-x64-exe.zip",
+    "hash": "62df48202b2cdffce7c8d289148166d0e61fafeaf7609e63d74a990ea61d86b6",
     "bin": "fend.exe",
     "homepage": "https://printfn.github.io/fend-website/",
     "checkver": {
