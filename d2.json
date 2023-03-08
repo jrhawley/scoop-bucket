@@ -1,9 +1,9 @@
 {
-    "version": "0.1.5",
-    "url": "https://github.com/terrastruct/d2/releases/download/v0.1.5/d2-v0.1.5-windows-amd64.tar.gz",
-    "extract_dir": "d2-v0.1.5\\bin",
+    "version": "0.2.4",
+    "url": "https://github.com/terrastruct/d2/releases/download/v0.2.4/d2-v0.2.4-windows-amd64.tar.gz",
+    "extract_dir": "d2-v0.2.4\\bin",
     "bin": "d2.exe",
-    "hash": "d27b275f1600c297e18c94bf9cbafcc4b12933d34d9765aee99665eee8be5d09",
+    "hash": "f99f8a36f6ad69bd77b9bc6eb90cef069889c25fc972f0a4fa146ee8a16196c9",
     "homepage": "https://d2lang.org",
     "checkver": {
         "github": "https://github.com/terrastruct/d2"
